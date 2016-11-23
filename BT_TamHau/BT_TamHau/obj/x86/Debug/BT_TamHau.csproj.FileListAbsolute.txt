@@ -1,0 +1,19 @@
+C:\Users\HT\AppData\Local\Temporary Projects\BT_TamHau\bin\Debug\BT_TamHau.exe
+C:\Users\HT\AppData\Local\Temporary Projects\BT_TamHau\bin\Debug\BT_TamHau.pdb
+C:\Users\HT\AppData\Local\Temporary Projects\BT_TamHau\obj\x86\Debug\BT_TamHau.exe
+C:\Users\HT\AppData\Local\Temporary Projects\BT_TamHau\obj\x86\Debug\BT_TamHau.pdb
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\BT_TamHau\BT_TamHau\obj\x86\Debug\BT_TamHau.exe
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\BT_TamHau\BT_TamHau\bin\Debug\BT_TamHau.exe
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\BT_TamHau\BT_TamHau\bin\Debug\BT_TamHau.pdb
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\BT_TamHau\BT_TamHau\obj\x86\Debug\BT_TamHau.pdb
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\BT_TamHau\BT_TamHau\obj\x86\Debug\BT_TamHau.csprojResolveAssemblyReference.cache
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\DoAn_CSTTNT_QuynhNhu\BT_TamHau\BT_TamHau\obj\x86\Debug\BT_TamHau.exe
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\DoAn_CSTTNT_QuynhNhu\BT_TamHau\BT_TamHau\obj\x86\Debug\BT_TamHau.pdb
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\DoAn_CSTTNT_QuynhNhu\BT_TamHau\BT_TamHau\bin\Debug\BT_TamHau.exe
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\DoAn_CSTTNT_QuynhNhu\BT_TamHau\BT_TamHau\bin\Debug\BT_TamHau.pdb
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\DoAn_CSTTNT_QuynhNhu\BT_TamHau\BT_TamHau\obj\x86\Debug\BT_TamHau.csprojResolveAssemblyReference.cache
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\22_PhamLeQuynhNhu_3113410082\BT_TamHau\BT_TamHau\obj\x86\Debug\BT_TamHau.exe
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\22_PhamLeQuynhNhu_3113410082\BT_TamHau\BT_TamHau\obj\x86\Debug\BT_TamHau.pdb
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\22_PhamLeQuynhNhu_3113410082\BT_TamHau\BT_TamHau\bin\Debug\BT_TamHau.exe
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\22_PhamLeQuynhNhu_3113410082\BT_TamHau\BT_TamHau\bin\Debug\BT_TamHau.pdb
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\22_PhamLeQuynhNhu_3113410082\BT_TamHau\BT_TamHau\obj\x86\Debug\BT_TamHau.csprojResolveAssemblyReference.cache
