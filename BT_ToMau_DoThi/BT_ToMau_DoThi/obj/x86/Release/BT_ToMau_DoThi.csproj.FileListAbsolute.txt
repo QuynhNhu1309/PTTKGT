@@ -1,0 +1,4 @@
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\BT_ToMau_DoThi\BT_ToMau_DoThi\bin\Release\BT_ToMau_DoThi.exe
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\BT_ToMau_DoThi\BT_ToMau_DoThi\bin\Release\BT_ToMau_DoThi.pdb
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\BT_ToMau_DoThi\BT_ToMau_DoThi\obj\x86\Release\BT_ToMau_DoThi.exe
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\BT_ToMau_DoThi\BT_ToMau_DoThi\obj\x86\Release\BT_ToMau_DoThi.pdb

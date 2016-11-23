@@ -1,0 +1,24 @@
+C:\Users\HT\AppData\Local\Temporary Projects\BT_ToMau_DoThi\bin\Debug\BT_ToMau_DoThi.exe
+C:\Users\HT\AppData\Local\Temporary Projects\BT_ToMau_DoThi\bin\Debug\BT_ToMau_DoThi.pdb
+C:\Users\HT\AppData\Local\Temporary Projects\BT_ToMau_DoThi\obj\x86\Debug\BT_ToMau_DoThi.exe
+C:\Users\HT\AppData\Local\Temporary Projects\BT_ToMau_DoThi\obj\x86\Debug\BT_ToMau_DoThi.pdb
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\BT_ToMau_DoThi\BT_ToMau_DoThi\obj\x86\Debug\BT_ToMau_DoThi.exe
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\BT_ToMau_DoThi\BT_ToMau_DoThi\obj\x86\Debug\BT_ToMau_DoThi.pdb
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\BT_ToMau_DoThi\BT_ToMau_DoThi\bin\Debug\BT_ToMau_DoThi.exe
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\BT_ToMau_DoThi\BT_ToMau_DoThi\bin\Debug\BT_ToMau_DoThi.pdb
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\BT_ToMau_DoThi\BT_ToMau_DoThi\obj\x86\Debug\BT_ToMau_DoThi.csprojResolveAssemblyReference.cache
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\DoAn_CSTTNT_QuynhNhu_3113410082\BT_ToMau_DoThi\BT_ToMau_DoThi\obj\x86\Debug\BT_ToMau_DoThi.exe
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\DoAn_CSTTNT_QuynhNhu_3113410082\BT_ToMau_DoThi\BT_ToMau_DoThi\obj\x86\Debug\BT_ToMau_DoThi.pdb
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\DoAn_CSTTNT_QuynhNhu_3113410082\BT_ToMau_DoThi\BT_ToMau_DoThi\bin\Debug\BT_ToMau_DoThi.exe
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\DoAn_CSTTNT_QuynhNhu_3113410082\BT_ToMau_DoThi\BT_ToMau_DoThi\bin\Debug\BT_ToMau_DoThi.pdb
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\DoAn_CSTTNT_QuynhNhu_3113410082\BT_ToMau_DoThi\BT_ToMau_DoThi\obj\x86\Debug\BT_ToMau_DoThi.csprojResolveAssemblyReference.cache
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\22_PhamLeQuynhNhu_3113410082\BT_ToMau_DoThi\BT_ToMau_DoThi\obj\x86\Debug\BT_ToMau_DoThi.exe
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\22_PhamLeQuynhNhu_3113410082\BT_ToMau_DoThi\BT_ToMau_DoThi\obj\x86\Debug\BT_ToMau_DoThi.pdb
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\22_PhamLeQuynhNhu_3113410082\BT_ToMau_DoThi\BT_ToMau_DoThi\bin\Debug\BT_ToMau_DoThi.exe
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\22_PhamLeQuynhNhu_3113410082\BT_ToMau_DoThi\BT_ToMau_DoThi\bin\Debug\BT_ToMau_DoThi.pdb
+D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\22_PhamLeQuynhNhu_3113410082\BT_ToMau_DoThi\BT_ToMau_DoThi\obj\x86\Debug\BT_ToMau_DoThi.csprojResolveAssemblyReference.cache
+D:\KienThuc_LapTrinh\PhanTich&ThietKe_GiaiThuat\BT_ThucHanh\BT_ToMau_DoThi\BT_ToMau_DoThi\obj\x86\Debug\BT_ToMau_DoThi.exe
+D:\KienThuc_LapTrinh\PhanTich&ThietKe_GiaiThuat\BT_ThucHanh\BT_ToMau_DoThi\BT_ToMau_DoThi\obj\x86\Debug\BT_ToMau_DoThi.pdb
+D:\KienThuc_LapTrinh\PhanTich&ThietKe_GiaiThuat\BT_ThucHanh\BT_ToMau_DoThi\BT_ToMau_DoThi\bin\Debug\BT_ToMau_DoThi.exe
+D:\KienThuc_LapTrinh\PhanTich&ThietKe_GiaiThuat\BT_ThucHanh\BT_ToMau_DoThi\BT_ToMau_DoThi\bin\Debug\BT_ToMau_DoThi.pdb
+D:\KienThuc_LapTrinh\PhanTich&ThietKe_GiaiThuat\BT_ThucHanh\BT_ToMau_DoThi\BT_ToMau_DoThi\obj\x86\Debug\BT_ToMau_DoThi.csprojResolveAssemblyReference.cache
