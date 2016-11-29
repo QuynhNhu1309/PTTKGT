@@ -90,11 +90,11 @@ namespace BT_ToMau_DoThi
 
         static void Colour()
         {
-                int point = Max_Function();
+            int point = Max_Function();//Tìm đỉnh có bậc lớn nhất và chưa được tô màu
                 for (int color = 1; color <= n_color; color++)
                 {
                     mau[point] = color;
-                    if (Check_Colour(point))
+                    if (Check_Colour(point))//Kiểm tra đỉnh này đã tô màu chưa
                     {
                         bac[point] = 0;
                         for (int j = 1; j <= n; j++)
@@ -122,6 +122,9 @@ namespace BT_ToMau_DoThi
                 Console.Write("Mau cua dinh {0} la: {1}", i, mau[i]);
                 Console.WriteLine();
             }
+
+            Console.WriteLine("Bai toan su dung chien luoc tham an");
+            Console.WriteLine("Do phuc tap = O(n2)");
         }
 
         static void Main(string[] args)

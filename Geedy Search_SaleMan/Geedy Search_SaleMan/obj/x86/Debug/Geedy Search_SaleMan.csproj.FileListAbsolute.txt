@@ -17,3 +17,8 @@ D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\22_PhamLeQuynhNhu_3113410082\Geedy Search
 D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\22_PhamLeQuynhNhu_3113410082\Geedy Search_SaleMan\Geedy Search_SaleMan\bin\Debug\Geedy Search_SaleMan.exe
 D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\22_PhamLeQuynhNhu_3113410082\Geedy Search_SaleMan\Geedy Search_SaleMan\bin\Debug\Geedy Search_SaleMan.pdb
 D:\KienThuc_LapTrinh\CS_TriTue_NhanTao\22_PhamLeQuynhNhu_3113410082\Geedy Search_SaleMan\Geedy Search_SaleMan\obj\x86\Debug\Geedy Search_SaleMan.csprojResolveAssemblyReference.cache
+D:\KienThuc_LapTrinh\PhanTich&ThietKe_GiaiThuat\BT_ThucHanh\Geedy Search_SaleMan\Geedy Search_SaleMan\obj\x86\Debug\Geedy Search_SaleMan.exe
+D:\KienThuc_LapTrinh\PhanTich&ThietKe_GiaiThuat\BT_ThucHanh\Geedy Search_SaleMan\Geedy Search_SaleMan\obj\x86\Debug\Geedy Search_SaleMan.pdb
+D:\KienThuc_LapTrinh\PhanTich&ThietKe_GiaiThuat\BT_ThucHanh\Geedy Search_SaleMan\Geedy Search_SaleMan\bin\Debug\Geedy Search_SaleMan.exe
+D:\KienThuc_LapTrinh\PhanTich&ThietKe_GiaiThuat\BT_ThucHanh\Geedy Search_SaleMan\Geedy Search_SaleMan\bin\Debug\Geedy Search_SaleMan.pdb
+D:\KienThuc_LapTrinh\PhanTich&ThietKe_GiaiThuat\BT_ThucHanh\Geedy Search_SaleMan\Geedy Search_SaleMan\obj\x86\Debug\Geedy Search_SaleMan.csprojResolveAssemblyReference.cache

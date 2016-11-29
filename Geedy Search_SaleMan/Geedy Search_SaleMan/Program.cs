@@ -18,7 +18,7 @@ namespace Geedy_Search_SaleMan
             static int cost = 0;
             static void Nhap()
             {
-                Console.WriteLine("\n\n\t\t----- THUAT TOAN THAM LAM - BAI TOAN NGUOI BAN HANG ----");
+                Console.WriteLine("\n\n\t\t----- THUAT TOAN THAM LAM - BAI TOAN NGUOI DU LICH ----");
                 Console.Write("\n\n\t\tNhap so dinh: ");
                 n = int.Parse(Console.ReadLine());
                 Console.WriteLine("\n\n\t\tNhap do dai tung cung: ");
@@ -98,7 +98,7 @@ namespace Geedy_Search_SaleMan
                 Console.Write("\n\t\tPATH = {0} --> ", s);
                 for (int i = 2; i <= n +1 ; i++)
                 {
-                    int next = TopNear(e);//tìm đỉnh có độ dài cung nhỏ nhất
+                    int next = TopNear(e);//tìm đỉnh có độ dài cung nhỏ nhất và chưa đi qua
                     cost = cost + a[e, next];
                     tour[i] = next;
                     e = next;
@@ -115,12 +115,19 @@ namespace Geedy_Search_SaleMan
                 Console.Write("\n\n\t\tChi phi = {0}", cost);
             }
 
+            static void KetLuan()
+            {
+                Console.WriteLine("\n\n\n\t\tBai toan su dung chien thuat tham lam\n\n");
+                Console.WriteLine("\t\tDo phuc tap O(n2)");
+            }
+
 
             static void Main(string[] args)
             {
                 Nhap();
                 Xuat();
                 Findway(s);
+                KetLuan();
                 Console.ReadLine();
             }
     }

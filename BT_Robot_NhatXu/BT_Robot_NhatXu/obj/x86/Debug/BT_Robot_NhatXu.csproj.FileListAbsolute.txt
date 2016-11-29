@@ -1,0 +1,8 @@
+C:\Users\HT\AppData\Local\Temporary Projects\BT_Robot_NhatXu\bin\Debug\BT_Robot_NhatXu.exe
+C:\Users\HT\AppData\Local\Temporary Projects\BT_Robot_NhatXu\bin\Debug\BT_Robot_NhatXu.pdb
+C:\Users\HT\AppData\Local\Temporary Projects\BT_Robot_NhatXu\obj\x86\Debug\BT_Robot_NhatXu.exe
+C:\Users\HT\AppData\Local\Temporary Projects\BT_Robot_NhatXu\obj\x86\Debug\BT_Robot_NhatXu.pdb
+D:\KienThuc_LapTrinh\PhanTich&ThietKe_GiaiThuat\BT_ThucHanh\BT_Robot_NhatXu\BT_Robot_NhatXu\obj\x86\Debug\BT_Robot_NhatXu.exe
+D:\KienThuc_LapTrinh\PhanTich&ThietKe_GiaiThuat\BT_ThucHanh\BT_Robot_NhatXu\BT_Robot_NhatXu\obj\x86\Debug\BT_Robot_NhatXu.pdb
+D:\KienThuc_LapTrinh\PhanTich&ThietKe_GiaiThuat\BT_ThucHanh\BT_Robot_NhatXu\BT_Robot_NhatXu\bin\Debug\BT_Robot_NhatXu.exe
+D:\KienThuc_LapTrinh\PhanTich&ThietKe_GiaiThuat\BT_ThucHanh\BT_Robot_NhatXu\BT_Robot_NhatXu\bin\Debug\BT_Robot_NhatXu.pdb
